@@ -13,7 +13,7 @@
 ;;              Eduardo Lavaque <me@greduan.com>,
 ;;              Lee Machin <ljmachin@gmail.com>
 ;;
-;; URL: http://github.com/greduan/emacs-theme-gruvbox
+;; URL: https://github.com/greduan/emacs-theme-gruvbox
 ;; Version: 1.30.1
 
 ;; Package-Requires: ((autothemer "0.2"))
@@ -718,8 +718,8 @@ Should contain 2 %s constructs to allow for theme name and directory/prefix")
      (diredfl-deletion-file-name                (:foreground gruvbox-bright_red :bold t))
      (diredfl-dir-heading                       (:foreground gruvbox-bright_blue :bold t))
      (diredfl-dir-name                          (:foreground gruvbox-bright_blue))
-     (diredfl-dir-priv                          (:foreground gruvbox-bright_blue :background gruvbox-dark_blue))
-     (diredfl-exec-priv                         (:foreground gruvbox-bright_blue :background gruvbox-dark_blue))
+     (diredfl-dir-priv                          (:foreground gruvbox-bright_blue))
+     (diredfl-exec-priv                         (:foreground gruvbox-bright_blue))
      (diredfl-executable-tag                    (:foreground gruvbox-bright_green))
      (diredfl-file-name                         (:foreground gruvbox-light2))
      (diredfl-file-suffix                       (:foreground gruvbox-light4))
